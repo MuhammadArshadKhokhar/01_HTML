@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+div{
+    height: 60px;
+    background-color:#0f1111;
+    border-color:rgb(9, 236, 107);
+    border-width: 5px;
+    border-style:solid;
+}
+button{
+    background-color: #f08804;
+
+}
+#loge{
+    font-size: 25px;
+    color: #f08804;
+   
+}
+a {
+    margin-right: 200px;
+}
+#text{
+    color: black;
+    text-align: center;
+}
