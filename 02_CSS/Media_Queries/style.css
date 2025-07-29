@@ -1,0 +1,37 @@
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+  border-radius: 10px;
+}
+
+/* For screen width ≤ 300px */
+@media (max-width: 300px) {
+  div {
+    background-color: green;
+  }
+}
+
+/* For screen width between 301px and 400px */
+@media (min-width: 301px) and (max-width: 400px) {
+  div {
+    background-color: pink;
+  }
+}
+
+/* For screen width between 401px and 600px */
+@media (min-width: 401px) and (max-width: 600px) {
+  div {
+    background-color: red;
+  }
+}
+
+/* For screen width > 600px */
+@media (min-width: 601px) {
+  div {
+    background-color: blueviolet; /* Reset to default or another color */
+  }
+}
