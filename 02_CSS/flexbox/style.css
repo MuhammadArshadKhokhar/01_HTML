@@ -1,0 +1,14 @@
+ul{
+   background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+li{
+ list-style-type: none;
+}
+a{
+    height: 10px;
+    width: 5px;
+    background-color: aquamarine;
+    text-decoration: none;
+}
