@@ -40,7 +40,7 @@ This is a **static Amazon clone** built with  **HTML and CSS** , replicating key
    **sh**
 
    ```
-   git clone https://github.com/your-username/amazon-clone.git
+   https://github.com/MuhammadArshadKhokhar/Web-Development/tree/main/Project
    cd amazon-clone
    ```
 2. **Open `index.html` in a browser:**
