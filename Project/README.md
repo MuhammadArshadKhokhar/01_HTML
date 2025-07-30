@@ -61,5 +61,5 @@ This is a **static Amazon clone** built with  **HTML and CSS** , replicating key
 ## **Credits**
 
 * **Design Reference:** Amazon.com
-* **Built by:** [Your Name]
-* **GitHub:** [Your Profile Link]
+* **Built by:** [Muhammad Arshad Khokhar]
+* **GitHub:** [https://github.com/MuhammadArshadKhokhar]
